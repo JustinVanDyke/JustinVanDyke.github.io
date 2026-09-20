@@ -49,17 +49,22 @@ Cisco Certified Network Associate (CCNA) – 2022
 
 (CCNP planned after ECMS completed)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[x]: https://x.com/JustinVanDyke86/
-[youtube]: https://www.youtube.com/@justinvandykenetworking/
-[instagram]: https://www.instagram.com/justinvandykenetworking/
-[linkedin]: https://www.linkedin.com/in/justin-vandyke-b519b345/
+<p>
+  <a href="https://www.youtube.com/@justinvandykenetworking/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="22" style="margin-right: 10px;">
+  </a>
+  <a href="https://x.com/JustinVanDyke86/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="X" width="22" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/justin-vandyke-b519b345/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.instagram.com/justinvandykenetworking/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="22">
+  </a>
+</p>
 
 <!--
 this is the full code that i originally copied from (see youtube video: https://www.youtube.com/watch?v=zgqfWLHNKLk
