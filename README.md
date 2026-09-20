@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin!</h1>
+## Hi, I'm Justin!
 
 ## About
 
