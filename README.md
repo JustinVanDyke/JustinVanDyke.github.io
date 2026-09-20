@@ -1,53 +1,44 @@
 <h1>Hi, I'm Justin!<h1>
 
-<h2>About</h2>
-  
-Network Engineer with a strong foundation in managed services, NOC operations, and multi-vendor environments. Experienced in supporting and maintaining enterprise network infrastructure with a focus on reliability, security, and operational efficiency. Currently deepening expertise in Cisco Meraki solutions while progressing toward advanced certifications. Passionate about turning complex network problems into stable, scalable systems.
+## About
 
-I just created this page today (Sept 19 2026) and will be updating it asap. 
+<p>Network Engineer with a strong foundation in managed services, NOC operations, and multi-vendor environments. Experienced in supporting and maintaining enterprise network infrastructure with a focus on reliability, security, and operational efficiency. Currently deepening expertise in Cisco Meraki solutions while progressing toward advanced certifications. Passionate about turning complex network problems into stable, scalable systems.</p>
 
-<h2>Experience</h2>
-  
-Network Engineer
+<p><em>I just created this page today (Sept 19 2026) and will be updating it asap. Bare with me while I make this prettier and more useful lol</em></p>
 
+## Experience
+
+<strong>Network Engineer</strong><br>
 CommandLink | 2023 – Present
+<ul>
+  <li>Support and maintain multi-site network infrastructure, including security appliances, SD-WAN, and connectivity services for managed services clients.</li>
+  <li>Troubleshoot and resolve escalated network and security issues across diverse customer environments.</li>
+  <li>Collaborate with teams to implement and optimize network configurations focused on uptime and performance.</li>
+</ul>
 
-Support and maintain multi-site network infrastructure, including security appliances, SD-WAN, and connectivity services for managed services clients.
-Troubleshoot and resolve escalated network and security issues across diverse customer environments.
-Collaborate with teams to implement and optimize network configurations focused on uptime and performance.
-
-Tier 2 Voice Technician
-
+<strong>Tier 2 Voice Technician</strong><br>
 Unified Global Solutions | 2021 – 2022
+<ul>
+  <li>Provided advanced technical support for voice and network services, handling complex escalations and ensuring service continuity.</li>
+  <li>Diagnosed and resolved issues related to VoIP, SIP, and underlying network infrastructure.</li>
+  <li>Documented resolutions and contributed to knowledge base improvements for the support team.</li>
+</ul>
 
-Provided advanced technical support for voice and network services, handling complex escalations and ensuring service continuity.
-Diagnosed and resolved issues related to VoIP, SIP, and underlying network infrastructure.
-Documented resolutions and contributed to knowledge base improvements for the support team.
-
-NOC Support Team Lead
-
+<strong>NOC Support Team Lead</strong><br>
 GTT Communications | 2018 – 2021
+<ul>
+  <li>Led a team of NOC technicians, providing technical guidance, escalation management, and quality oversight.</li>
+  <li>Managed incident response and troubleshooting for managed network and connectivity services.</li>
+  <li>Coordinated with engineering and customer teams to drive timely resolution of critical issues.</li>
+</ul>
 
-Led a team of NOC technicians, providing technical guidance, escalation management, and quality oversight.
-Managed incident response and troubleshooting for managed network and connectivity services.
-Coordinated with engineering and customer teams to drive timely resolution of critical issues.
-
-Managed Services NOC Support Technician II
-
+<strong>Managed Services NOC Support Technician II</strong><br>
 GTT Communications | 2015 – 2018
-
-Delivered Tier 2 support for managed network services, focusing on proactive monitoring, incident handling, and customer communication.
-Worked extensively with routing, switching, and customer premises equipment in production environments.
-Consistently met and exceeded performance metrics for ticket resolution and customer satisfaction.
-
-
-<h2>Certifications</h2>
-  
-Cisco Certified Network Associate (CCNA) – 2022
-
-(Currently preparing for Cisco Meraki Solutions Specialist – ECMS)
-
-(CCNP planned after ECMS completed)
+<ul>
+  <li>Delivered Tier 2 support for managed network services, focusing on proactive monitoring, incident handling, and customer communication.</li>
+  <li>Worked extensively with routing, switching, and customer premises equipment in production environments.</li>
+  <li>Consistently met and exceeded performance metrics for ticket resolution and customer satisfaction.</li>
+</ul>
 
 <h2>Connect with me:</h2>
 
